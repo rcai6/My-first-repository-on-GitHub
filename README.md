@@ -11,3 +11,4 @@ name = input("Please enter your name: ")
 
 # Display the user's information using f-string formatting
 print(f"{name}, your favorite number is {favNum} and you are {age} years old.")
+{age} years old.")
